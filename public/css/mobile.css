@@ -1,0 +1,50 @@
+/* body {
+    display: none;
+} To Test Media Query html Link */
+
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 8px;
+  border-bottom: #444444 solid 1px;
+}
+
+/* Company Info */
+
+#company-info .info-img {
+  display: none;
+}
+
+#company-info .info-content {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#company-info .info-content h2 {
+  text-align: center;
+}
+
+/* Tiles */
+
+.tile {
+  float: none;
+  width: 100%;
+}
+
+/* About Page */
+
+#about-info .info-left,
+#about-info .info-right {
+  float: none;
+  width: 100%;
+  padding-top: 40px;
+}
